@@ -1,39 +1,23 @@
 public class OOPSBanner.Java{
 public static void main(String[] args){
-    System.out.println(String.join(" ",
-                "  *   ", "  *   ", "  * ", "      ** "
-        ));
+             String.join(" ",
+                "  *  ", "  *  ", " * ", " * ");
 
-        System.out.println(String.join(" ",
-                "*   ", "     ", " *   *", "  *     "
-        ));
-          System.out.println(String.join(" ",
-                "*   ", "     ", " *   *", " *     "
-        ));
+             String.join(" ",
+                " *   * ", " *   * ", " *   * ", " *     ");
 
-        System.out.println(String.join(" ",
-                "*   ", "     ", " *   *", "  *       "
-        ));
+             String.join(" ",
+                "*     ", "     *", " *   * ", " *     ");
+             String.join(" ",
+                "*     ", "     ", " * ", " ** ");
 
-        System.out.println(String.join(" ",
-                "*   ", "     ", " * ", "     ** "
-        ));
+             String.join(" ",
+                "*     ", "     *", " *     ", "     * ");
 
-        System.out.println(String.join(" ",
-                "*   ", "     *", " *     ", "       *"
-        ));
+             String.join(" ",
+                " *   * ", " *   * ", " *     ", "     * ");
 
-        System.out.println(String.join(" ",
-                "*   ", "     *", " *   ", "          *"
-                
-        ));
-                System.out.println(String.join(" ",
-                "*   ", "     *", " *   ", "        *"
-        ));
-
-        System.out.println(String.join(" ",
-                "  *   ", "  *   ", " *     ", " ** "
-        ));
-    }
-    
-    
+             String.join(" ",
+                "  *  ", "  *  ", " *     ", " * ");
+}    
+}    
